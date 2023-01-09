@@ -1,4 +1,4 @@
-package fuzz
+package fuzzAuthAndTypes
 
 import "strconv"
 import "github.com/go-numb/go-ftx/auth"
